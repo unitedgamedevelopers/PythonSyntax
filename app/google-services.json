@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683870115873",
+    "project_id": "pyhton-syntax",
+    "storage_bucket": "pyhton-syntax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683870115873:android:d8646b153d7c2f438aab60",
+        "android_client_info": {
+          "package_name": "com.georgiancollege.pythonsyntax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683870115873-of2ugrh4elq3ot8sahinbf4bk7u857nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBncu2ccf5ZUu7vHrYRdFCtZknJclrfNx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683870115873-of2ugrh4elq3ot8sahinbf4bk7u857nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

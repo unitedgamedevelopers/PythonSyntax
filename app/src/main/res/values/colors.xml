@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bright_yellow_200">#FFE047</color>
+    <color name="bright_yellow_500">#FFC310</color>
+    <color name="bright_yellow_700">#FFA305</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy_blue">#03002B</color>
+</resources>
